@@ -1,0 +1,2 @@
+No trailing newline?~Works
+Last?~Line
